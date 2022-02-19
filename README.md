@@ -1,3 +1,5 @@
+## This application is made using laravel framework, please use larevel guidelines to install and start the app
+
 - Copy configuration
 ```sh
 $ cp .env.example .env
