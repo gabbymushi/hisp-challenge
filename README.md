@@ -1,5 +1,7 @@
 ## This application is made using laravel framework, please use larevel guidelines to install and start the app
 
+## PHP version should be 8.0.2 and above
+
 - Copy configuration
 ```sh
 $ cp .env.example .env
