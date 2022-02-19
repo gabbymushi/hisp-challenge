@@ -7,11 +7,11 @@ $ cp .env.example .env
 $ composer install
 
 - Generate application key
-``sh
+
 $ php artisan key:generate
 
 - Run application
-``sh
+
 $ php artisan serve
 
 - Open application from the browser via the link below
