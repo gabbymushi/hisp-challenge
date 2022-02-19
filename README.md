@@ -7,13 +7,13 @@ $ cp .env.example .env
 $ composer install
 
 - Generate application key
-```sh
+``sh
 $ php artisan key:generate
 
 - Run application
-```sh
+``sh
 $ php artisan serve
 
-- Open application from the browser
-```sh
-$ http://localhost:8000/
+- Open application from the browser via the link below
+
+ http://localhost:8000/
